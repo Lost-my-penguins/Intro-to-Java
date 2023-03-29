@@ -1,7 +1,7 @@
 /* (Display three messages) Write a program that displays:
 * Welcome to Java
 * Learning Java Now
-* Programming is Fun.
+* Programming is Fun
 */
 
 public class Exercise_01_01 {
