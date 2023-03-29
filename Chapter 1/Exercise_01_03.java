@@ -1,8 +1,8 @@
 /* (Display a pattern) Write a program that displays the following pattern
  *       J     A    V     V    A
- *	     J    A A    V   V    A A
- *	 J   J   AAAAA    V V    AAAAA
- *	  J J   A     A    V    A     A
+ *	 J    A A    V   V    A A
+ *   J   J   AAAAA    V V    AAAAA
+ *    J J   A     A    V    A     A
  */
 
 public class Exercise_01_03 {
