@@ -1,4 +1,4 @@
-/* (Area and perimeter of a rectangle) Write a program that displays
+/* (Area and perimeter of a circle) Write a program that displays
  * that area and perimeter of a circle using the following formula:
  * 	π = 3.14159
  * 	perimeter = 2*radius*π
