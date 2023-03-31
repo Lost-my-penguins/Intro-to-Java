@@ -4,7 +4,7 @@
  * (Note that 1 mile is 1.6 kilometers)
  */
 
-public class Exercise2 {
+public class Exercise_01_10 {
 	public static void main(String[] args) {
 		System.out.println("Average speed of the runner is: " + (15/1.6)/(50.5/60));
 	}
