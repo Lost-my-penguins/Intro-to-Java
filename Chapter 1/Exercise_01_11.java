@@ -13,7 +13,7 @@
  *  1.25 and 10 / 4.0 is 2.5.
  */
 
-public class Exercise {
+public class Exercise_01_11 {
 	public static void main(String[] args) {
 		System.out.println("First (1) year population:  " + (312032486 + (((31536000 / 7) - (31536000 / 13) + (31536000 / 45)) * 1)));
 		System.out.println("Second (2) year population: " + (312032486 + (((31536000 / 7) - (31536000 / 13) + (31536000 / 45)) * 2)));
